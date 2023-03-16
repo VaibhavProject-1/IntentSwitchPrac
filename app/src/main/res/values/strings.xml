@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IntentPrac</string>
+    <string name="save">Save</string>
+    <string name="call_user_directly">Call User Directly</string>
+    <string name="call_user_via_dialpad">Call User via DialPad</string>
+    <string name="go_to_google_web_page">Go to Google Web-Page</string>
+    <string name="go_to_home_page">Go To Home Page</string>
+    <string name="go_to_activity_lifecycle">Go To Activity LifeCycle</string>
+    <string name="service_in_android">Service in Android</string>
+    <string name="start_service">Start Service</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="blink">Blink</string>
+    <string name="rotate">Rotate</string>
+    <string name="fade">Fade</string>
+    <string name="move">Move</string>
+    <string name="slide">Slide</string>
+    <string name="zoom">Zoom</string>
+    <string name="stop_animation">Stop Animation</string>
+    <string name="music_player">Music Player</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="context_menu">Context Menu</string>
+    <string name="popup_menu">Popup Menu</string>
+</resources>
